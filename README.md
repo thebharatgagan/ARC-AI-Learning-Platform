@@ -1,7 +1,11 @@
-**Project ARC — Think Anything, Build Everything.**
+# ARC — Think Anything, Build Everything.
 
-ARC is a web-based platform designed to help users think, learn, solve problems, and build solutions through an intelligent and interactive interface. Formerly known as ConversionBrains, the project has been renamed to ARC, reflecting a broader vision of creating a platform that brings ideas, productivity, and technology together.
+ARC is a coding and problem-solving platform designed to help learners practice programming, strengthen their problem-solving skills, and turn their ideas into working solutions in one place.
 
-The goal of ARC is to develop a modern, user-friendly platform with AI-powered conversations, chat history, multiple model options, and file interaction capabilities, with the potential to expand into a comprehensive digital workspace.
+The vision of ARC is to create a clean, interactive environment where users can learn coding concepts, solve programming challenges, write and test code, and improve through consistent practice. The platform aims to make the journey from learning to building simpler and more accessible.
 
-**Vision:** To turn ideas into possibilities through intelligent technology.
+ARC is currently under development, with its initial focus on building the frontend interface and establishing the core user experience.
+
+**Mission:** To make learning, practicing, and building with code more accessible through a unified platform.
+
+**Tagline:** Think Anything, Build Everything.
